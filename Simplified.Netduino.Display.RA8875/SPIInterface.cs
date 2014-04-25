@@ -2,7 +2,7 @@ using System;
 using Microsoft.SPOT;
 using Microsoft.SPOT.Hardware;
 
-namespace Simplified.Micro.Lcd.RA8875
+namespace Simplified.Netduino.Display.RA8875
 {
     public class SPIInterface : ICommunicationInterface
     {

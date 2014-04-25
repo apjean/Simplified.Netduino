@@ -1,7 +1,7 @@
 using System;
 using Microsoft.SPOT;
 
-namespace Simplified.Micro.Lcd.RA8875
+namespace Simplified.Netduino.Display.RA8875
 {
     public enum CursorDirection : byte
     {
